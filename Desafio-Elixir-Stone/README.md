@@ -3,7 +3,7 @@
 
 <ul>
     <li>Itens</li>
-    <li<Quantidade de cada item</li>
+    <li>Quantidade de cada item</li>
     <li>Preço por unidade/peso/pacote de cada item</li>
 </ul>
 
@@ -17,5 +17,7 @@
 
 <h3>⚠️ IMPORTANTE</h3>
 
-    <p>Quando fizer a divisão, é importante que não falte nenhum centavo! Cuidado quando tiver, por exemplo, um valor total de R$ 1,00 para ser dividido entre 3 e-mails. Isso daria uma dízima infinita. No entanto, o correto aqui é que duas pessoas fiquem com o valor 0,33 e a terceira fique com 0,34.
-    Para facilitar e como boa prática, não trabalhe com valores com decimais. Ou seja, ponto flutuante ou float. Use inteiros para representar os valores! Como a menor unidade na nossa moeda é o centavo, use valores inteiros em centavos. Assim, um real será representado por 100 (cem centavos é igual a um real). </p>
+    
+<ul>
+    <li>Quando fizer a divisão, é importante que não falte nenhum centavo! Cuidado quando tiver, por exemplo, um valor total de R$ 1,00 para ser dividido entre 3 e-mails. Isso daria uma dízima infinita. No entanto, o correto aqui é que duas pessoas fiquem com o valor 0,33 e a terceira fique com 0,34.</li>
+<li>Para facilitar e como boa prática, não trabalhe com valores com decimais. Ou seja, ponto flutuante ou float. Use inteiros para representar os valores! Como a menor unidade na nossa moeda é o centavo, use valores inteiros em centavos. Assim, um real será representado por 100 (cem centavos é igual a um real).</li></ul>
